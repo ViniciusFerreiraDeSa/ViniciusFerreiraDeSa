@@ -28,11 +28,8 @@
   <a href="https://www.linkedin.com/in/vinicius-ferreira-de-s%C3%A1-a2968a269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <img align="right" alt="vinicius-anya" height="150" width="200" src=https://github.com/ViniciusFerreiraDeSa/ViniciusFerreiraDeSa/assets/125524394/cbb0ec17-a1a7-476b-b80d-076218551ab1
 </div> 
-
-
-
-
-
-
-
-
+      
+  ##
+ 
+  
+ 
