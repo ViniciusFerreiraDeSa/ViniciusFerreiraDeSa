@@ -26,7 +26,10 @@
  	<a href="https://www.twitch.tv/vinishowtlgd" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:viniciusferreira2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-ferreira-de-s%C3%A1-a2968a269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img align="end" alt="vinicius-anya" height="30" width="300" src=https://github.com/ViniciusFerreiraDeSa/ViniciusFerreiraDeSa/assets/125524394/cbb0ec17-a1a7-476b-b80d-076218551ab1
 </div> 
+
+
 
 
 
