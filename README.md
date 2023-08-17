@@ -6,12 +6,9 @@
 - 📚 Estudando HTML, CSS, JAVASCRIPT
 <p align="center">👀 Sobre Mim: Gosto de passar o meu tempo livre jogando alguns jogos, assistindo filmes/séries. Também gosto muito de programar e espero sempre descobrir mais coisas envolvidas na área de TI.</p>
 
-<a href="https://github.com/ViniciusFerreiraDeSa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusFerreiraDeSa&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/ViniciusFerreiraDeSa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFerreiraDeSa&theme=radical" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusFerreiraDeSa&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFerreiraDeSa&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
