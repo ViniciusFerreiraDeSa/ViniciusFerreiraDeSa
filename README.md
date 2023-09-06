@@ -3,7 +3,7 @@
 
 
 - 🐵 Atualmente estou desempregado em busca do primeiro emprego! 
-- 📚 Estudando HTML, CSS, JAVASCRIPT
+- 📚 Estudando TypeScript no momento
 <p align="center">👀 Sobre Mim: Gosto de passar o meu tempo livre jogando alguns jogos, assistindo filmes/séries. Também gosto muito de programar e espero sempre descobrir mais coisas envolvidas na área de TI.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusFerreiraDeSa&theme=radical)
